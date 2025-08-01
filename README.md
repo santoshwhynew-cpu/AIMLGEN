@@ -1,5 +1,3 @@
 # AIMLGEN
 AI related work
-
-
-all related sql
+All related sql
